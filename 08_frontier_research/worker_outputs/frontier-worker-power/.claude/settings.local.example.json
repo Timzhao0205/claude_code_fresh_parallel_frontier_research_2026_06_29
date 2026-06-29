@@ -1,0 +1,12 @@
+{
+  "model": "opus",
+  "effortLevel": "xhigh",
+  "permissions": {
+    "deny": [
+      "Bash(rm -rf:*)",
+      "Bash(git reset --hard:*)",
+      "Bash(git clean -fd:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}

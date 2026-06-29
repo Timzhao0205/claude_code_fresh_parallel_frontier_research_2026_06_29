@@ -1,0 +1,18 @@
+domain,category,counting_rule,notes
+ieeexplore.ieee.org,peer_reviewed_or_conference,verify peer review and venue,"Use final IEEE proceedings/journals, not preprint copies"
+nature.com,peer_reviewed_journal,verify journal article,High-impact journal family
+science.org,peer_reviewed_journal,verify journal article,High-impact journal family
+cell.com,peer_reviewed_journal,verify journal article,High-impact journal family
+fda.gov,official_non_article,counts if direct,Regulation/guidance/database
+nist.gov,official_non_article,counts if direct,Metrology/standards/CHIPS
+energy.gov,official_non_article,counts if direct,DOE programs/reports
+arpa-e.energy.gov,official_non_article,counts if direct,ARPA-E programs
+bis.gov,official_non_article,counts if direct,Export controls
+federalregister.gov,official_non_article,counts if direct,Legal rulemaking
+gov.cn,official_non_article,counts if direct,China policy
+miit.gov.cn,official_non_article,counts if direct,China industrial policy
+nmpa.gov.cn,official_non_article,counts if direct,China medical device regulation
+semi.org,industry_association,counts if transparent/direct,Semiconductor equipment/standards
+semiconductors.org,industry_association,counts if direct,SIA data
+wsts.org,industry_association,counts for market cycle only,"Market stats, not customer pain"
+arxiv.org,blocked,not counted,Preprint only
